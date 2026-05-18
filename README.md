@@ -5,8 +5,8 @@
 ---
 
 ## 🎥 Live Demo & Video Pitch
-* **Video Pitch:** [Dán link YouTube 3 phút của bạn vào đây]
-* **Live Demo:** [Dán link Google Colab của bạn vào đây]
+* **Video Pitch:** https://www.youtube.com/watch?v=dn59ifrXc1Q&t=47s
+* **Live Demo:** https://colab.research.google.com/drive/1xUeGQ2fa69Q_kFzrQklCyZylrB1OqGVO?usp=sharing
 
 ## 🌍 The Problem: The Digital Divide
 In remote areas of Vietnam, students face a significant shortage of expert teachers for advanced subjects like Quantum Physics and essential skills like English communication. High-speed internet is often unstable, making cloud-based AI expensive and inaccessible.
